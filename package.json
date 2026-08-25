@@ -1,0 +1,8 @@
+{
+  "name": "git-links-demo",
+  "version": "0.3.0",
+  "private": true,
+  "description": "Seeded demo repository for Git Links for Jira",
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
